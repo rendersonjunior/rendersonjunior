@@ -23,4 +23,4 @@ Tecnologias:
 <a href="https://www.linkedin.com/in/rendersonjunior" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![e8cff72cb6e31cdca7930531bc480885](https://github.com/rendersonjunior/rendersonjunior/assets/50850623/8c5dd0cf-89e6-4596-87fb-7d7c583b290b)
+![e8cff72cb6e31cdca7930531bc480885](https://github.com/rendersonjunior/rendersonjunior/assets/50850623/316dd9be-acaf-4fdc-8497-44a57b024410)
