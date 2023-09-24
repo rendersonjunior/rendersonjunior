@@ -1,4 +1,4 @@
-### Olá, sou o Renderson Junior
+### Olá, eu sou o Renderson Junior
 
 Tecnologias:
 
