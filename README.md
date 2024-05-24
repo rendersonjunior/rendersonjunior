@@ -2,9 +2,9 @@
 
 ### Sobre mim:
 - Tenho mais de 10 anos da área de desenvolvimento de software;
-- Interesse em **Design Patterns**, **Clean Code** e **SOLID**;
-- Buscando aprender **Flutter**;
-- Sou perito em **Computação Forense**.
+- Interesse em **Java**, **Design Patterns**, **Clean Code** e **SOLID**;
+- Estudando Arquitetura de **Microsservices**;
+- Perito em **Computação Forense**.
 
 ### Tecnologias:
 
