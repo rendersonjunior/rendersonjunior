@@ -4,7 +4,8 @@
 - Tenho mais de 10 anos da área de desenvolvimento de software;
 - Interesse em **Java**, **Design Patterns**, **Clean Code** e **SOLID**;
 - Estudando Arquitetura de **Microsservices**;
-- Perito em **Computação Forense**.
+- Perito em **Computação Forense**;
+- Examinare, cogito et exsequor.
 
 ### Tecnologias:
 
