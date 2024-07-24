@@ -3,7 +3,7 @@
 ### Sobre mim:
 - Tenho mais de 10 anos da área de desenvolvimento de software;
 - Interesse em **Java**, **Design Patterns**, **Clean Code** e **SOLID**;
-- Estudando Arquitetura de **Microsservices**;
+- Estudando Arquitetura de **Microservices**;
 - Perito em **Computação Forense**;
 - Examinare, cogito et exsequor.
 
